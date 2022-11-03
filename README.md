@@ -27,11 +27,11 @@ debricked is Debricked's own command line interface. It brings open source secur
   <a href="https://twitter.com/spacedriveapp">
     <img src="https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white" />
   </a>
-  <a href="https://instagram.com/spacedriveapp">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+  <a href="https://linkedin.com/debricked">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.gnu.org/licenses/agpl-3.0">
-    <img src="https://img.shields.io/static/v1?label=Licence&message=AGPL%20v3&color=000" />
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <img src="https://img.shields.io/static/v1?label=Bundled%20Size&message=16.3MB&color=0974B4" />
   <img src="https://img.shields.io/static/v1?label=Stage&message=Alpha&color=2BB4AB" />
