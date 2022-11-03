@@ -33,7 +33,7 @@ debricked is Debricked's own command line interface. It brings open source secur
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://github.com/KalameeTim/CLITest#beta-software">
+  <a href="https://github.com/KalameeTim/CLITest#beta-software-%EF%B8%8F">
     <img src="https://img.shields.io/badge/stability-beta-33bbff.svg" />
   <br />
 </p>
