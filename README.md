@@ -21,8 +21,11 @@ debricked is Debricked's own command line interface. It brings open source secur
   <img src="https://github.com/debricked/cli/raw/main/assets/cli.png" alt="CLI Screenshot">
   <br />
   <br />
-  <a href="https://discord.gg/gTaF2Z44f5">
-    <img src="https://img.shields.io/discord/949090953497567312?label=Discord&color=5865F2" />
+  <a href="https://github.com/viktigpetterr/debricked-go-cli/actions/workflows/test.yml">
+    <img src="https://github.com/viktigpetterr/debricked-go-cli/actions/workflows/test.yml/badge.svg" />
+  </a>
+  <a href="https://github.com/viktigpetterr/debricked-go-cli/actions/workflows/debricked.yml">
+    <img src="https://github.com/viktigpetterr/debricked-go-cli/actions/workflows/debricked.yml/badge.svg" />
   </a>
   <a href="https://twitter.com/debrickedab">
     <img src="https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white" />
