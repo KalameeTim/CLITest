@@ -37,6 +37,6 @@ debricked is Debricked's own command line interface. It brings open source secur
   <br />
 </p>
 
-<h2> ## Beta software ⚠️</h2>
+<h2>Beta software ⚠️</h2>
 
 This product is only meant to be used for testing purposes. 
