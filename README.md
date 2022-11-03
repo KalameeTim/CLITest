@@ -24,16 +24,15 @@ debricked is Debricked's own command line interface. It brings open source secur
   <a href="https://discord.gg/gTaF2Z44f5">
     <img src="https://img.shields.io/discord/949090953497567312?label=Discord&color=5865F2" />
   </a>
-  <a href="https://twitter.com/spacedriveapp">
+  <a href="https://twitter.com/debrickedab">
     <img src="https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/debricked">
+  <a href="https://www.linkedin.com/company/debricked">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <img src="https://img.shields.io/static/v1?label=Bundled%20Size&message=16.3MB&color=0974B4" />
-  <img src="https://img.shields.io/static/v1?label=Stage&message=Alpha&color=2BB4AB" />
+  <img src="https://img.shields.io/badge/stability-beta-33bbff.svg" />
   <br />
 </p>
