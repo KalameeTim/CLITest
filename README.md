@@ -1,7 +1,5 @@
 <p align="center">
   <a href="#">
-    
-  </a>
   <p align="center">
    <img width="150" height="150" src="https://github.com/KalameeTim/CLITest/blob/main/Deceli_Icon_Display.png" alt="Logo">
   <h1 align="center"><b>Debricked-CLI</b></h1>
