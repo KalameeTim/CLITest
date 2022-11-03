@@ -17,3 +17,23 @@
 debricked is Debricked's own command line interface. It brings open source security, compliance and health to your project via the command prompt. 
 <br/>
 <br/>
+<p align="center">
+  <img src="https://github.com/debricked/cli/raw/main/assets/cli.png" alt="CLI Screenshot">
+  <br />
+  <br />
+  <a href="https://discord.gg/gTaF2Z44f5">
+    <img src="https://img.shields.io/discord/949090953497567312?label=Discord&color=5865F2" />
+  </a>
+  <a href="https://twitter.com/spacedriveapp">
+    <img src="https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/spacedriveapp">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.gnu.org/licenses/agpl-3.0">
+    <img src="https://img.shields.io/static/v1?label=Licence&message=AGPL%20v3&color=000" />
+  </a>
+  <img src="https://img.shields.io/static/v1?label=Bundled%20Size&message=16.3MB&color=0974B4" />
+  <img src="https://img.shields.io/static/v1?label=Stage&message=Alpha&color=2BB4AB" />
+  <br />
+</p>
