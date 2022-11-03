@@ -36,3 +36,7 @@ debricked is Debricked's own command line interface. It brings open source secur
   <img src="https://img.shields.io/badge/stability-beta-33bbff.svg" />
   <br />
 </p>
+
+<h2> ## Beta software ⚠️</h2>
+
+This product is only meant to be used for testing purposes. 
