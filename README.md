@@ -12,7 +12,8 @@
   </p>
   </p>
 </p>
-  `debricked` is Debricked's own command line interface. It brings open source security, compliance and health to your
+
+`debricked` is Debricked's own command line interface. It brings open source security, compliance and health to your
 project via the command prompt.
 <br/>
 <br/>
