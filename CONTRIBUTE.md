@@ -56,7 +56,7 @@ Before submitting your PRs, we would appreciate it if you took some time to clea
 $ git commit -s -m "This is a cool commit"
 $ git push -u origin my-cool-branch`
 
-1. Then, [submit a pull request]().
+2. [submit a pull request]().
 
 # Bug Reports
 
