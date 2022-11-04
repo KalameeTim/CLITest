@@ -1,19 +1,18 @@
 If you are new to contributing to open-source projects, we want to encourage you to take a look at this great guide made by GitHub on how to contribute to open-source projects [https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/)
 
-feel free to reach out to any of the maintainers or other community members if you are struggling; we are here to help you learn!
+feel free to reach out to any of the maintainers or other community members if you have any questions.
 
-## Contribute to Open Source Health!
+## Contribute to Debricked-CLI!
 
-### Here’s how to help out
+### If you have questions
 
-- If you have any questions, first check and search the current issues to make sure there are no duplicates.
-- Make sure all tests are successful when submitting a pull request.
+- First check and search the current issues and see if they can help answer your questions.
+- If you then still feel the need to ask a question and need clarification, we recommend the following:
+-  Open an Issue.
+-  Provide as much context as you can about what you’re running into.
+-  Provide project and platform versions, depending on what seems relevant.
 
-### Join our discussions
-
-Every Thursday we have an open invitation for you to join us as we talk about the project and metrics. This is to make sure that everyone can make their voice heard, even if you can’t contribute code. 
-
-It’s also very important that this is a transparent process because we want this to be the best it can possibly be, and that can’t happen without the open input from you.
+We will then take care of the issue as soon as possible.
 
 ### Feature Request
 
