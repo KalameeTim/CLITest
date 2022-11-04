@@ -24,19 +24,24 @@ debricked is Debricked's own command line interface. It brings open source secur
   <a href="https://github.com/viktigpetterr/debricked-go-cli/actions/workflows/debricked.yml">
     <img src="https://github.com/viktigpetterr/debricked-go-cli/actions/workflows/debricked.yml/badge.svg" />
   </a>
+    <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://github.com/KalameeTim/CLITest#beta-software-%EF%B8%8F">
+    <img src="https://img.shields.io/badge/stability-beta-33bbff.svg" />
+  </a>
   <a href="https://twitter.com/debrickedab">
     <img src="https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/company/debricked">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-  <a href="https://github.com/KalameeTim/CLITest#beta-software-%EF%B8%8F">
-    <img src="https://img.shields.io/badge/stability-beta-33bbff.svg" />
   <br />
 </p>
+  
+<h2>Contributing</h2>
+
+Thank you for your interest in making debricked-cli even better! Read more about contributing to the project [here](https://github.com/KalameeTim/CLITest/blob/main/CONTRIBUTE.md)
 
 <h2>Beta software ⚠️</h2>
 
