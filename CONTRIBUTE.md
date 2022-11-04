@@ -4,7 +4,8 @@ feel free to reach out to any of the maintainers or other community members if y
 
 ## Contribute to Debricked-CLI!
 
-###Projects setup and Architecture
+### Projects setup and Architecture
+
 Requirements
 
     Go version 1.17 or higher
