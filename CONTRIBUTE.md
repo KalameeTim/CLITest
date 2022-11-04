@@ -4,6 +4,11 @@ feel free to reach out to any of the maintainers or other community members if y
 
 ## Contribute to Debricked-CLI!
 
+###Projects setup and Architecture
+Requirements
+
+    Go version 1.17 or higher
+
 ### If you have questions
 
 - First check and search the current issues and see if they can help answer your questions.
@@ -36,7 +41,7 @@ When you start implementing your changes make sure that you create a new branch 
 
 Create Branch:
 
-`$ git checkout -b my-new-branch`
+`$ git checkout -b my-cool-branch`
 
 ## Submitting a Pull Request
 
@@ -47,8 +52,8 @@ Before submitting your PRs, we would appreciate it if you took some time to clea
 1. Commit the change(s) and push to your fork
 
 `$ git add .
-$ git commit -s -m "This is my first commit"
-$ git push -u origin my-new-branch`
+$ git commit -s -m "This is a cool commit"
+$ git push -u origin my-cool-branch`
 
 1. Then, [submit a pull request]().
 
