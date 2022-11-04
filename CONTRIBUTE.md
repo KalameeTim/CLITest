@@ -12,28 +12,23 @@ feel free to reach out to any of the maintainers or other community members if y
 -  Provide as much context as you can about what you’re running into.
 -  Provide project and platform versions, depending on what seems relevant.
 
-We will then take care of the issue as soon as possible.
-
 ### Feature Request
 
-You're also welcome to submit ideas for enhancements to open-source-health. When doing so, please search the issue list to see if the enhancement has already been filed. If it has, vote for 
-it (add a reaction to it) and optionally add a comment with your perspective on the idea.
-
-See our guide to writing feature requests for more on how to write a great feature request.
-
-If you have any features you would like to suggest or you just want to discuss certain features of the project, the **Forum** is the way to go! Simply tag your post with the corresponding tag and everyone can see it there. This can then be discussed on the Thursday meetings.
+You're also welcome to submit ideas for enhancements to Debricked-CLI. When doing so, please search the issue list to see if the enhancement has already been filed. If it has, vote for it (add a reaction to it) and optionally add a comment with your perspective on the idea.
 
 ## Ready? Let’s go!
 
 To get started, fork this project to your own git.
 
-`$ git clone github.com:your-username/osh.git
-$ cd debricked/
-$ git remote add upstream https://github.com/<your username>/osh.git`
+`$ 
+$ 
+$`
 
  Make sure to keep your fork up to date as well. You can do so by: 
-
-INSTRUCTIONS
+ 
+ `$ 
+$ 
+$`
 
 ## Doing your work
 
@@ -55,7 +50,7 @@ Before submitting your PRs, we would appreciate it if you took some time to clea
 $ git commit -s -m "This is my first commit"
 $ git push -u origin my-new-branch`
 
-1. Then, [submit a pull request](https://github.com/chaoss/augur/compare).
+1. Then, [submit a pull request]().
 
 # Bug Reports
 
@@ -70,5 +65,4 @@ Make sure to include as much details as possible by using our general guidelines
     - Possibly your input and the output
     - Can you reliably reproduce the issue? And can you also reproduce it with older versions?
 
-> Never report security related issues, vulnerabilities or bugs to the issue tracker, or elsewhere in public. Instead sensitive bugs must be sent by email to <security.osh@debricked.com>
->
+> Never report security related issues, vulnerabilities or bugs to the issue tracker, or elsewhere in public. Instead sensitive bugs must be sent by email to <securityplaceholder@debricked.com>
