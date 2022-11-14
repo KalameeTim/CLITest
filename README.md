@@ -38,8 +38,6 @@ project via the command prompt.
 <p align="center">
   <img src="https://github.com/debricked/cli/raw/main/assets/cli.png" alt="CLI Screenshot">
   <br />
-  <br />
-  <br />
 </p>
   
 <h2>Contributing</h2>
