@@ -17,11 +17,7 @@
 project via the command prompt.
 <br/>
 <br/>
-<p align="center">
-  <img src="https://github.com/debricked/cli/raw/main/assets/cli.png" alt="CLI Screenshot">
-  <br />
-  <br />
-  <a href="https://github.com/viktigpetterr/debricked-go-cli/actions/workflows/test.yml">
+ <a href="https://github.com/viktigpetterr/debricked-go-cli/actions/workflows/test.yml">
     <img src="https://github.com/viktigpetterr/debricked-go-cli/actions/workflows/test.yml/badge.svg" />
   </a>
   <a href="https://github.com/viktigpetterr/debricked-go-cli/actions/workflows/debricked.yml">
@@ -39,6 +35,10 @@ project via the command prompt.
   <a href="https://www.linkedin.com/company/debricked">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
+<p align="center">
+  <img src="https://github.com/debricked/cli/raw/main/assets/cli.png" alt="CLI Screenshot">
+  <br />
+  <br />
   <br />
 </p>
   
